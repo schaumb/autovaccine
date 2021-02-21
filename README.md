@@ -1,3 +1,3 @@
 # autovaccine
 
-This code was created for Hack&Heal hackathlon in 2021
+This code was created for Hack&Heal hackathon in 2021
